@@ -39,4 +39,4 @@ I chose C++ because:
 
 1. Compile with any C++ compiler:
    ```bash
-   g++ options.cpp -o options -std=c++11
+   g++ Options.cpp -o options -std=c++11
